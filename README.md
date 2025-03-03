@@ -19,8 +19,9 @@ This project demonstrates **basic Java programming concepts**, including:
 ---
 
 ## **Features**
-- **Add Task:** Users can enter a new task to be added to the list.
+- **Add Task:** Users can enter a new task to be added to the list along with a deadline.
 - **View Tasks:** Displays all current tasks in the list.
+- **Edit Tasks:** Users can edit a task by specifying its number, and can choose whether to add/edit a deadline.
 - **Remove Task:** Users can delete a task by specifying its number.
 - **Exit Program:** Safely exits the application.
 

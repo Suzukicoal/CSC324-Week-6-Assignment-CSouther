@@ -6,6 +6,7 @@
 This is a simple **To-Do List application** built in **Java**. It allows users to:
 ✅ **Add tasks**  
 ✅ **View tasks**  
+✅ **Edit tasks**  
 ✅ **Remove tasks**  
 ✅ **Exit the application**  
 
